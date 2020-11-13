@@ -1,0 +1,13 @@
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\3 exercicio\obj\Debug\netcoreapp3.1\3 exercicio.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\3 exercicio\obj\Debug\netcoreapp3.1\3 exercicio.AssemblyInfoInputs.cache
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\3 exercicio\obj\Debug\netcoreapp3.1\3 exercicio.AssemblyInfo.cs
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\3 exercicio\obj\Debug\netcoreapp3.1\3 exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\3 exercicio\bin\Debug\netcoreapp3.1\3 exercicio.exe
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\3 exercicio\bin\Debug\netcoreapp3.1\3 exercicio.deps.json
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\3 exercicio\bin\Debug\netcoreapp3.1\3 exercicio.runtimeconfig.json
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\3 exercicio\bin\Debug\netcoreapp3.1\3 exercicio.runtimeconfig.dev.json
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\3 exercicio\bin\Debug\netcoreapp3.1\3 exercicio.dll
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\3 exercicio\bin\Debug\netcoreapp3.1\3 exercicio.pdb
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\3 exercicio\obj\Debug\netcoreapp3.1\3 exercicio.dll
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\3 exercicio\obj\Debug\netcoreapp3.1\3 exercicio.pdb
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\3 exercicio\obj\Debug\netcoreapp3.1\3 exercicio.genruntimeconfig.cache

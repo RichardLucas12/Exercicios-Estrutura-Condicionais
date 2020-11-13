@@ -1,0 +1,13 @@
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\Desafio\obj\Debug\netcoreapp3.1\Desafio.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfoInputs.cache
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfo.cs
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\Desafio\obj\Debug\netcoreapp3.1\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\Desafio\bin\Debug\netcoreapp3.1\Desafio.exe
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\Desafio\bin\Debug\netcoreapp3.1\Desafio.deps.json
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.json
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.dev.json
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\Desafio\bin\Debug\netcoreapp3.1\Desafio.dll
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\Desafio\bin\Debug\netcoreapp3.1\Desafio.pdb
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\Desafio\obj\Debug\netcoreapp3.1\Desafio.dll
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\Desafio\obj\Debug\netcoreapp3.1\Desafio.pdb
+C:\Users\Richard\Desktop\Exercicios-Estrutura-Condicionais\Desafio\obj\Debug\netcoreapp3.1\Desafio.genruntimeconfig.cache
